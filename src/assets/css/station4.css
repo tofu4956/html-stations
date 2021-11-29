@@ -19,7 +19,7 @@
   margin-bottom: 6px;
 }
 
-.header {
+header {
   background-color: #ffffff;
 }
 
@@ -31,6 +31,6 @@
   background-color: #726666;
 }
 
-.footer{
+footer{
   background-color: #ffffff;
 }
