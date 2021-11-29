@@ -41,11 +41,11 @@ footer{
   background-color: #ffffff;
 }
 
-@media screen and (min-width: 1200px){
+@media screen and (max-width: 1200px){
 
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (max-width: 768px) {
   .card__title {
     color: #282828;
     font-size: 8px;
@@ -60,13 +60,13 @@ footer{
   }
 }
 
-@media screen and (min-width: 320px) {
+@media screen and (max-width: 320px) {
   .card__title {
     color: #282828;
     font-size: 3px;
   }
 
   .card__description {
-    display:none;
+    display: none;
   }
 }
